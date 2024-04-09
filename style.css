@@ -212,18 +212,23 @@ html,body{
     align-items: center;
     justify-content: center;
 
-    padding:22vw 0 0 20vw;
-    gap:70px;
+/*     padding:22vw 0 0 20vw; */
+    padding:22vw 0 0 0vw;
+/*     gap:70px; */
+    gap:5vw;
 }
 #about-in img{
-    width:244px;
-    height:244px;
+/*     width:244px;
+    height:244px; */
+    width:13vw;
+    height:13vw;
 }
 #content{
     width: 28rem;;
     line-height: 28px;
     color:white;
-    font-size: 16px;
+/*     font-size: 16px; */
+    font-size: 1rem;
 }
 #content h4{
     opacity: 0.6;
